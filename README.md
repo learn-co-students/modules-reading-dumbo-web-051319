@@ -17,7 +17,6 @@ This is where modules come in. Modules allow us to collect and bundle a group of
 ***This is a code along exercise. Fork and clone this repo by clicking the Github link at the top of the page. Follow along with the walk-through below to get your code working. Get the tests to pass.***
 
 ### Step I: Defining Our Module
-
 We'll code our `Dance` module inside the `lib/dance_module.rb` file. Open up that file and define your module with the following code:
 
 ```ruby
